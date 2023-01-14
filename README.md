@@ -15,6 +15,6 @@
 * [Prior project (utilization for beautiful soup)](https://github.com/stein463/AppliedDataScienceCapstoneIBM)
 	* [Utiliing this notebook](https://github.com/stein463/AppliedDataScienceCapstoneIBM/blob/master/FinalProjectForIBMDataScienceCertification.ipynb)
 	* [Further Documentation](https://github.com/stein463/AppliedDataScienceCapstoneIBM/blob/master/README.md)
-*
+* [Webpage to extract URLs] (https://pytutorial.com/get-element-href-beautifulsoup/)
 
 * Schools can be found on pages 1-23 to access each respective page modify url with / followed by whichever page you wish to access
